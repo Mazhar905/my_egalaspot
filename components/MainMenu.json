@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "Collections",
+      "link": "/collection",
+      "subMenu": [
+        {
+          "name": "Furniture Store",
+          "link": "/collection/"
+        },  
+        {
+          "name": "Electronic Store",
+          "link": "/collection/"
+        },
+        {
+          "name": "Fashion Store",
+          "link": "/collection/"
+        },
+        {
+          "name": "Shoes Store",
+          "link": "/collection/"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "link": "/contact"
+    }
+  ]
+  

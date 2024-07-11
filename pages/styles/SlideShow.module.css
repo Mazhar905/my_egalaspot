@@ -1,0 +1,3 @@
+.swiper-button-next::after{
+    background-color: blue !important;
+}
